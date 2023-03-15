@@ -1,4 +1,5 @@
-// Create a union date that contains year, day and month.Create any three date and display them.
+// LAB 13
+// Q3. Create a union date that contains year, day and month.Create any three date and display them.
 
 #include <stdio.h>
 #include <conio.h>
