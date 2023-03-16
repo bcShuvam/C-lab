@@ -28,6 +28,6 @@ void main()
 
 // Output :
 //      Details of books are:
-//      101, Munamadan romance, novel, 400.00
+//      101, Munamadan, romance novel, 400.00
 //      202, Gravity, science friction, 800.00
 //      303, Avengers, action friction, 1600.00
