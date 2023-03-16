@@ -1,5 +1,5 @@
 // LAB 9
-// Create two functions in which first finds the maximum and second one finds the minimum number in an array and call these methods in main method.
+// Create two functions in which first finds the maximum and second one finds the minimum number in an array and call these methods in main method .
 
 #include <stdio.h>
 #include <conio.h>

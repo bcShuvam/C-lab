@@ -1,5 +1,5 @@
 // LAB 9
-// Create four functions named sum, differnce, multiply and divide to compute the sum, difference, muliply and division of two numbers and call those methods in the main method.
+// Create four functions named sum, differnce, multiply and divide to compute the sum, difference, muliply and division of two numbers and call those methods in the main method .
 
 #include <stdio.h>
 #include <conio.h>
